@@ -22,9 +22,9 @@ page.
 
 
 ## PROGRAM:
-### Developed by : Sri Varshan P
-### Register Number : 212222240104
-c
+### Developed by : PRIYANKA.A
+### Register Number : 212222230113
+```c
 #include<stdio.h>
 int main()
 {
@@ -61,7 +61,7 @@ int main()
     printf("\nPage Fault Is %d", count);
 }
 
-
+```
 ## OUTPUT:
 
 ![image](https://github.com/PSriVarshan/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/114944059/e937bf7b-8bc5-4fb9-9bdd-4a14d5baff53)
@@ -91,7 +91,7 @@ in the memory with new page,
 ## PROGRAM:
 ### Developed by : PRIYANKA.A
 ### Register Number : 212222230113
-c
+```c
 #include <stdio.h>
 int main() {
     int q[20], p[50], c = 0, c1, d, f, i, j, k = 0, n, r, t, b[20], c2[20];
@@ -152,7 +152,7 @@ int main() {
     }
     printf("\nThe no of page faults is %d", c);
 }
-
+```
 ## OUTPUT:
 
 ![image](https://github.com/PSriVarshan/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/114944059/b482bef7-ed01-4b60-bcda-5d195016b39b)
